@@ -5,17 +5,22 @@
  */
 package principal;
 
+import java.util.*;
+
 /**
  *
  * @author Estudiantes
  */
 public class Principal {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
+        Vehiculo miCarrito;
+        miCarrito = new Vehiculo();
+
+        Scanner miScanner;
+        miScanner = new Scanner(System.in);
+
     }
-    
+
 }
