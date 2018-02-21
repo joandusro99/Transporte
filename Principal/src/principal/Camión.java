@@ -9,7 +9,7 @@ package principal;
 public class Camión extends Vehiculo{
     
     void cargar(){
-        
+           
     }
     void descargar(){
         
