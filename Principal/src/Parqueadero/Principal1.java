@@ -5,12 +5,15 @@
  */
 package Parqueadero;
 
-
 public class Principal1 {
     
-}
-public static void main (String[] args){
-
-}
-
+    public static void main(String[] args) {
+        
+        FichaVehiculo miFicha;
+        miFicha = new FichaVehiculo();
+        
+        miFicha.setVisible(true);
+        
+    }
+    
 }
